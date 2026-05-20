@@ -43,6 +43,17 @@ https://www.kaggle.com/datasets/shaunthesheep/microsoft-catsvsdogs-dataset
 - Overfitting and Regularization
 - Model Evaluation
 
+## 🧠 EVEN BETTER FUTURE UPGRADES
+Later you can add:
+
+- confidence percentage
+- drag & drop UI
+- webcam detection
+- transfer learning
+- Hugging Face deployment
+- mobile app
+- live camera classifier
+
 The project can be further improved by implementing Transfer Learning using pretrained models such as MobileNetV2, ResNet50, or EfficientNet for higher accuracy and faster training. Future upgrades may also include deploying the model as a web application using Flask or Streamlit and enabling real-time image prediction through a webcam.
 
 This project is ideal for beginners and students exploring Artificial Intelligence, Deep Learning, and Computer Vision through practical implementation and hands-on learning.
