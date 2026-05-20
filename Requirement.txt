@@ -1,0 +1,10 @@
+Rewuirement For This Model 
+
+tensorflow
+numpy
+matplotlib
+pandas
+scikit-learn
+opencv-python
+pillow
+
