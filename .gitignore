@@ -1,0 +1,17 @@
+# Virtual Environment
+.venv/
+
+# Dataset
+dataset/
+
+# Trained Model
+model.h5
+
+# Python Cache
+__pycache__/
+
+# VS Code
+.vscode/
+
+# System Files
+.DS_Store
