@@ -19,6 +19,10 @@ Model training and validation
 Prediction on custom images
 Performance evaluation using accuracy metrics
 
+## Dataset
+Dataset used in this project:
+https://www.kaggle.com/datasets/shaunthesheep/microsoft-catsvsdogs-dataset
+
 ## Technologies and libraries used:
 
 - Python
