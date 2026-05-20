@@ -29,7 +29,10 @@ https://www.kaggle.com/datasets/shaunthesheep/microsoft-catsvsdogs-dataset
 - TensorFlow
 - Keras
 - NumPy
--  atplotlib
+- Matplotlib
+
+## To Install these:
+- pip install -r requirements.txt
 
 ## This project helped in understanding important Deep Learning concepts such as:
 
