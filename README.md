@@ -19,13 +19,20 @@ Model training and validation
 Prediction on custom images
 Performance evaluation using accuracy metrics
 
+## Dataset
+Dataset used in this project:
+https://www.kaggle.com/datasets/shaunthesheep/microsoft-catsvsdogs-dataset
+
 ## Technologies and libraries used:
 
 - Python
 - TensorFlow
 - Keras
 - NumPy
--  atplotlib
+- Matplotlib
+
+## To Install these:
+- pip install -r requirements.txt
 
 ## This project helped in understanding important Deep Learning concepts such as:
 
